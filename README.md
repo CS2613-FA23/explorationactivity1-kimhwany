@@ -1,4 +1,4 @@
-# Text to Speech Application using Python and gTTS
+# Speechify - Text to Speech Application using Python and gTTS!
 
 ## Introduction
 This Python application demonstrates the usage of various libraries to create a Text-to-Speech (TTS) converter with a graphical user interface (GUI). It utilizes the following packages/libraries:
